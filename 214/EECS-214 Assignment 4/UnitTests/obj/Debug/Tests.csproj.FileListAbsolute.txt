@@ -1,0 +1,9 @@
+C:\Users\fpare\Desktop\ParticleSorting\UnitTestProject1\bin\Debug\Tests.dll
+C:\Users\fpare\Desktop\ParticleSorting\UnitTestProject1\bin\Debug\Tests.pdb
+C:\Users\fpare\Desktop\ParticleSorting\UnitTestProject1\bin\Debug\ParticleSorting.exe
+C:\Users\fpare\Desktop\ParticleSorting\UnitTestProject1\bin\Debug\OpenGL.dll
+C:\Users\fpare\Desktop\ParticleSorting\UnitTestProject1\bin\Debug\Tao.FreeGlut.dll
+C:\Users\fpare\Desktop\ParticleSorting\UnitTestProject1\bin\Debug\ParticleSorting.pdb
+C:\Users\fpare\Desktop\ParticleSorting\UnitTestProject1\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\fpare\Desktop\ParticleSorting\UnitTestProject1\obj\Debug\Tests.dll
+C:\Users\fpare\Desktop\ParticleSorting\UnitTestProject1\obj\Debug\Tests.pdb

@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Tests\bin\Debug\Tests.dll
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Tests\bin\Debug\Tests.pdb
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Tests\bin\Debug\Interpreter.exe
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Tests\bin\Debug\Interpreter.pdb
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Tests\obj\Debug\Tests.dll
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Tests\obj\Debug\Tests.pdb

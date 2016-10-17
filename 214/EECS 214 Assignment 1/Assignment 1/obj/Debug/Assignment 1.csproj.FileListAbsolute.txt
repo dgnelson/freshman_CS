@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb

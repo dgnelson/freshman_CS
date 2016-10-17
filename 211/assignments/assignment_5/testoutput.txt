@@ -1,0 +1,68 @@
+Number of tokens: 2
+token: system_status	token: 42	
+** Command SYSTEM_STATUS recognized
+The second token is the number 42
+Press ENTER to continue:
+Number of tokens: 4
+token: create_machine	token: pc1	token: 1.2.3.4	token: 9000	
+** Command CREATE_MACHINE recognized
+Press ENTER to continue:
+Number of tokens: 2
+token: system_status	token: 987	
+** Command SYSTEM_STATUS recognized
+The second token is the number 987
+Press ENTER to continue:
+Number of tokens: 1
+token: destroy_machine	
+** Command DESTROY_MACHINE recognized
+Press ENTER to continue:
+Number of tokens: 2
+token: system_status	token: 3	
+** Command SYSTEM_STATUS recognized
+The second token is the number 3
+Press ENTER to continue:
+Number of tokens: 1
+token: connect	
+** Command CONNECT recognized
+Press ENTER to continue:
+Number of tokens: 1
+token: check_connections	
+** Command CHECK_CONNECTIONS recognized
+Press ENTER to continue:
+Number of tokens: 4
+token: datagram	token: 1.2.3.4	token: 5.6.7.8	token: Message1	
+** Command DATAGRAM recognized
+SOURCE: 1.2.3.4
+DESTINATION: 5.6.7.8
+LENGTH: 8
+MESSAGE: "Message1"
+
+Press ENTER to continue:
+Number of tokens: 4
+token: datagram	token: 255.255.255.4	token: 20.192.42.0	token: Dear Mom and Dad	
+** Command DATAGRAM recognized
+SOURCE: 255.255.255.4
+DESTINATION: 20.192.42.0
+LENGTH: 16
+MESSAGE: "Dear Mom and Dad"
+
+Press ENTER to continue:
+Number of tokens: 4
+token: datagram	token: 300.1.2.3	token: 42.42.42.1	token: abc	
+** Command DATAGRAM recognized
+  ***ERROR:  Bad IP address.
+Press ENTER to continue:
+Number of tokens: 4
+token: datagram	token: 42.42.42.1	token: 2.300.4.5	token: def	
+** Command DATAGRAM recognized
+  ***ERROR:  Bad IP address.
+Press ENTER to continue:
+Number of tokens: 1
+token: time_click	
+** Command TIME_CLICK recognized
+Press ENTER to continue:
+Number of tokens: 1
+token: halt	
+** Command HALT recognized
+Press ENTER to continue:
+That's all, folks.

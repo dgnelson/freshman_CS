@@ -1,0 +1,7 @@
+C:\Users\Shane Stockall\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Shane Stockall\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Shane Stockall\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\UnitTestProject1\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Shane Stockall\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\UnitTestProject1\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Shane Stockall\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Shane Stockall\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Shane Stockall\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

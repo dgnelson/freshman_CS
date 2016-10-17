@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\Assignment 5\bin\Debug\Assignment 5.dll
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\Assignment 5\bin\Debug\Assignment 5.pdb
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\Assignment 5\obj\Debug\Assignment 5.dll
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\Assignment 5\obj\Debug\Assignment 5.pdb

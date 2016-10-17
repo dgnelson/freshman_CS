@@ -1,0 +1,13 @@
+system_status  42
+create_machine     pc1 1.2.3.4    9000
+system_status  987
+destroy_machine
+system_status  3
+connect
+check_connections
+datagram    1.2.3.4   5.6.7.8   Message1
+datagram    255.255.255.4   20.192.42.0   "Dear Mom and Dad"
+datagram    300.1.2.3   42.42.42.1   abc
+datagram   42.42.42.1    2.300.4.5   def
+time_click
+halt

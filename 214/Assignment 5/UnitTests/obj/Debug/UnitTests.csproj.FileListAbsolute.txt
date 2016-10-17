@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\UnitTests\bin\Debug\UnitTests.dll
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\UnitTests\bin\Debug\UnitTests.pdb
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\UnitTests\bin\Debug\Assignment 5.dll
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\UnitTests\bin\Debug\Assignment 5.pdb
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\UnitTests\obj\Debug\UnitTests.dll
+\\Mac\Home\Documents\Freshman\EECS214\Assignment 5\UnitTests\obj\Debug\UnitTests.pdb

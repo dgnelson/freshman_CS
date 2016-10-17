@@ -1,0 +1,22 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-advanced-reader.ss" "lang")((modname |Exercise 5|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #t #t none #f () #f)))
+(require "file-operations.rkt")
+
+(define (copy-tree from to) 
+  (begin (unless (directory-exists? to)
+           (make-directory to))
+         (for-each (λ (file)
+                     (begin (printf "Copying file ~A to ~A~n" file to)
+                            (copy-file file
+                                       (build-path to
+                                                   (path-filename file))
+                                       true)))
+                   (directory-files from))
+         (for-each (λ (subdir)
+                     (begin (printf "Copying directory ~A to ~A~n" subdir to)
+                            (copy-tree subdir
+                                       (build-path to
+                                                   (path-filename subdir)))))
+                   (directory-subdirectories from))))
+

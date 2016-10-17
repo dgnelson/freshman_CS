@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Interpreter\bin\Debug\Interpreter.exe.config
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Interpreter\bin\Debug\Interpreter.exe
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Interpreter\bin\Debug\Interpreter.pdb
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Interpreter\obj\Debug\Interpreter.GUI.resources
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Interpreter\obj\Debug\Interpreter.Properties.Resources.resources
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Interpreter\obj\Debug\Interpreter.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Interpreter\obj\Debug\Interpreter.exe
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 2\Interpreter\obj\Debug\Interpreter.pdb
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 3\Interpreter\bin\Debug\Interpreter.exe.config
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 3\Interpreter\obj\Debug\Interpreter.exe
+\\Mac\Home\Documents\Freshman\EECS214\EECS-214 Assignment 3\Interpreter\obj\Debug\Interpreter.pdb

@@ -1,0 +1,8 @@
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\QueueTests\obj\Debug\QueueTests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\QueueTests\bin\Debug\QueueTests.dll
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\QueueTests\bin\Debug\QueueTests.pdb
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\QueueTests\bin\Debug\Assignment 1.exe
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\QueueTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\QueueTests\bin\Debug\Assignment 1.pdb
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\QueueTests\obj\Debug\QueueTests.dll
+\\Mac\Home\Documents\Freshman\EECS214\EECS 214 Assignment 1\QueueTests\obj\Debug\QueueTests.pdb
